@@ -1,6 +1,6 @@
 <img src='./preview/cover.png'>
 
-# Cycling SVG Icons
+# Minimal Bicycle SVG Icons
 
 Minimal cycling icon set designed for UI, apps and websites.
 
@@ -15,10 +15,14 @@ Minimal cycling icon set designed for UI, apps and websites.
 SVG
 Designed in Figma
 
+## Usage
+
+This repository contains SVG files located in `minimal-bicycle/tree/main/svg` You can copy the code from there and use it. There are several file types available for the icons.
+
 ## License
 
 MIT
 
-## Who made it
+## Contributing
 
-> Peakk2011
+Feel free to open issues or submit new cycling icon ideas.

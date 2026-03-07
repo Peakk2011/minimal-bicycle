@@ -1,6 +1,6 @@
 <img src='./preview/cover.png'>
 
-# Minimal Bicycle SVG Icons
+# Bicycle SVG Icons
 
 Minimal cycling icon set designed for UI, apps and websites.
 
